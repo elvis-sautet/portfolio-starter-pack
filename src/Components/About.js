@@ -11,7 +11,6 @@ const About = ({ data }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
   }
 
   return (
@@ -19,7 +18,7 @@ const About = ({ data }) => {
       <div className="row">
         <div className="three columns">
           <img
-            className="profile-pic"
+            style={{ objectFit: "contain" }}
             src={profilepic}
             alt="Sonny's Profile Pic"
           />
@@ -47,7 +46,11 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} className="button">
+                <a
+                  href="../images/portfolio/sautet-cv.pdf"
+                  className="button"
+                  target="_blank"
+                >
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
