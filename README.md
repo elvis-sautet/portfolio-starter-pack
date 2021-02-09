@@ -2,7 +2,7 @@
 
 ![Elvis Resume Starter Pack](resume-screenshot.jpg?raw=true "Elvis React JS Portfolio Stater Pack ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://sautet-resume.herokuapp.com/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
