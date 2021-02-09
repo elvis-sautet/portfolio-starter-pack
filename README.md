@@ -1,4 +1,4 @@
-# Elvis SAUTET Resume Starter Pack
+# Elvis Sautet Resume Starter Pack
 
 ![Elvis Resume Starter Pack](resume-screenshot.jpg?raw=true "Elvis React JS Portfolio Stater Pack ")
 
