@@ -47,7 +47,7 @@ const About = ({ data }) => {
             <div className="columns download">
               <p>
                 <a
-                  href="../images/portfolio/sautet-cv.pdf"
+                  href="../images/portfolio/SAUTET-CV-2021"
                   className="button"
                   target="_blank"
                 >
